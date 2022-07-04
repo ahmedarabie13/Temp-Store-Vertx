@@ -1,0 +1,10 @@
+version: "1"
+server:
+    port: 9099
+datasource:
+    url:
+        host: 127.0.0.1
+        port: 5432
+        database: postgres
+    username: root
+    password: root
